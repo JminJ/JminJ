@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## JminJ 🧐
+---
 <!--
 **JminJ/JminJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi everyone! 👋
+- 🔭 I’m currently working on GSM
+- 🌱 I’m currently learning NLP, Pytorch, Python...
+- 📫 How to reach me: jminju254@gmail.com
+
+
+![JminJ's github stats](https://github-readme-stats.vercel.app/api?username=JminJ&show_icons=true)
