@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NLP, Pytorch, Python, Huggingface...
 - 📃 I often read papers about NLP
 - 📫 How to reach me: jminju254@gmail.com
+- 🏠 My velog: https://velog.io/@jminj
 
 
 ![JminJ's github stats](https://github-readme-stats.vercel.app/api?username=JminJ&show_icons=true)
