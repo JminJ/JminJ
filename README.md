@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi everyone! 👋
-- 🔭 I’m currently working on GSM
 - 🌱 I’m currently learning NLP, Pytorch, Python, Huggingface...
 - 📃 I often read papers about NLP
 - 📫 How to reach me: jminju254@gmail.com
