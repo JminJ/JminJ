@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi everyone! 👋
-- 📫 How to reach me: jminju254@gmail.com
-- 🏠 My velog: https://velog.io/@jminj
-- 🧐 My Portfolio: https://www.notion.so/Jeong-Minju-34b61e38c7924cf98a607a1f7cc8f513
+- How to reach me: jminju254@gmail.com
+- My velog: https://velog.io/@jminj
+- My Portfolio: https://www.notion.so/Jeong-Minju-34b61e38c7924cf98a607a1f7cc8f513
+- Linkdin: www.linkedin.com/in/jminj254
 
 
 ![JminJ's github stats](https://github-readme-stats.vercel.app/api?username=JminJ&show_icons=true)
