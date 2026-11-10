@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 - My velog: https://velog.io/@jminj
 - Portfolio: https://www.notion.so/Jeong-Minju-34b61e38c7924cf98a607a1f7cc8f513
 - LinkedIn: www.linkedin.com/in/jminj254
-
-
-![JminJ's github stats](https://github-readme-stats.vercel.app/api?username=JminJ&show_icons=true)
